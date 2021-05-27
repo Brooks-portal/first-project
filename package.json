@@ -1,0 +1,24 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brooks-portal/first-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brooks-portal/first-project/issues"
+  },
+  "homepage": "https://github.com/Brooks-portal/first-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
